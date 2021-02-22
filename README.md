@@ -23,7 +23,7 @@ I am a full stack developer based in Nairobi Kenya. I love solving problems with
 
 ## 🎧Currently Listening
 
-[![spotify-github-profile](https://open.spotify.com/user/alt1j8v85n8wst0rftdf1knha?si=df363ef576284edf&cover_image=false)](https://open.spotify.com/user/alt1j8v85n8wst0rftdf1knha?si=df363ef576284edf&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ds4fjskqnp0nvq2xdjmh0fsw8&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=ds4fjskqnp0nvq2xdjmh0fsw8&redirect=true)
 
 <!--
 **silikhe/silikhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
