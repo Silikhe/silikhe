@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Celestine
+### Hi there 👋, I'm Silikhe
 
 [Website](https://silsilas.github.io/portf/) |
 [Twitter](https://twitter.com/silikhesilas) |
