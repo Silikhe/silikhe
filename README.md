@@ -12,7 +12,7 @@ I am a full stack developer based in Nairobi Kenya. I love solving problems with
 - 📝 I currently write about Android concepts I'm learning and Android programming and [my blog](https://blog..com) 
 - 💬 Ask me about anything JavaScript
 - 📫 How to reach me: [@silikhe](https://twitter.com/silikhesilas)
-- ⚡ Fun fact: I think [Black holes](https://en.wikipedia.org/wiki/Black_hole) are the most fascinating things in the entire universe
+- ⚡ Fun fact: There are over 3 billion mobile phones are working in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), as well as 125 million TV sets and each Blu-Ray player. Another reason to love Java.
 
 ## :trophy: My Github Stats
 
