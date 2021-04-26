@@ -20,6 +20,9 @@ I am a full stack developer based in Nairobi Kenya. I love solving problems with
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=silikhe&count_private=true&show_icons=true&theme=cobalt" />
 </a>
 
+## 🎧 Currently Listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alt1j8v85n8wst0rftdf1knha&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 ## 🎧Currently Listening
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=alt1j8v85n8wst0rftdf1knha)
 <!--
