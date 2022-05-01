@@ -26,6 +26,7 @@ I am a full stack developer based in Nairobi Kenya. I love solving problems with
 </a>
 </a>
 
+![Silikhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=silikhe&show_icons=true&theme=radical)
 
 ## 🎧 Currently Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alt1j8v85n8wst0rftdf1knha&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
