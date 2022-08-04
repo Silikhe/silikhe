@@ -6,6 +6,7 @@
 
 ---
 
+
 I’m a software engineer specializing in building both web and android applications that add impact the community. I mainly program in Android but I am also profficient in Javascript, php, Kotlin and java. For me everyday is a learning day YEEY!! I love clean code and well written code and team best practices like CI/CD integrations and testing.
 
 - 🌱 I’m currently taking a course [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) on Udacity
@@ -15,7 +16,6 @@ I’m a software engineer specializing in building both web and android applicat
 - 📫 How to reach me: [@silikhe](https://twitter.com/silikhesilas)
 - ⚡ Fun fact: There are over 3 billion mobile phones are working in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), as well as 125 million TV sets and each Blu-Ray player. Another reason to love Java.
 - Well so far ![](https://komarev.com/ghpvc/?username=silikhe&color=green) people have stalked me 😄. Lol I am kidding go a head and view the profile.
-
 ## :trophy: My Github Stats
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=silikhe&count_private=true&show_icons=true&theme=cobalt">
@@ -28,7 +28,9 @@ I’m a software engineer specializing in building both web and android applicat
 ## 🎧 Currently Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alt1j8v85n8wst0rftdf1knha&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-
+---
+ ` Profile update Aug 2022 `
+---
 <!--
 **silikhe/silikhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
